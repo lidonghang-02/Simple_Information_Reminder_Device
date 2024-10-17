@@ -133,3 +133,9 @@
    2. 将Tengine中`build/install`目录下的`lib`目录上传，同时在板子中输入`export LD_LIBRARY_PATH=xxx/lib`rm ar
    3. `mobilenet_ssd.tmfile`在Tengine官方可以下载
    4. 模型识别效果并不理想，建议自己训练
+
+## 演示视频
+
+因为时间原因，没有训练模型，这里模型使用的是官方的分类模型。
+
+这个模型识别效果并不理想，所以为了方便掩饰，test.mp4中直接检测到人体后就会显示消息
