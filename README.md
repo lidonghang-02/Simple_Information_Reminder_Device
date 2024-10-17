@@ -8,7 +8,7 @@
 
 ## 哪吒d1-h
 
-![IMG20241017193542](/home/ldh/qq_data/IMG20241017193542.jpg)
+![IMG20241017193542](./pic/IMG20241017193542.jpg)
 
 
 
@@ -16,17 +16,17 @@
 
 ### web设置界面
 
-![image-20241017194132100](/home/ldh/.config/Typora/typora-user-images/image-20241017194132100.png)
+![image-20241017194132100](./pic/image-20241017194132100.png)
 
-<img src="/home/ldh/.config/Typora/typora-user-images/image-20241017194154455.png" alt="image-20241017194154455" style="zoom:33%;" />
+<img src="./pic/image-20241017194154455.png" alt="image-20241017194154455" style="zoom:33%;" />
 
 ### 屏幕
 
-![IMG20241017193441](/home/ldh/qq_data/IMG20241017193441.jpg)
+![IMG20241017193441](./pic/IMG20241017193441.jpg)
 
 
 
-![image-20241017203034386](/home/ldh/.config/Typora/typora-user-images/image-20241017203034386.png)
+![image-20241017203034386](./pic/image-20241017203034386.png)
 
 ## 环境搭建
 
